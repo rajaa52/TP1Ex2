@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HabitationAndroid</string>
+    <string name="titreSection">Calculer vos impôts locaux</string>
+    <string name="toolbar">Habitation Android</string>
+    <string name="champ1">  Votre nom</string>
+    <string name="champ2">  Votre adresse</string>
+    <string name="champ3">  Votre Surface</string>
+    <string name="champ4">  Nombre de pièces</string>
+    <string name="impots1">Impôts de base:  </string>
+    <string name="impots2">Impôts supplémentaires:  </string>
+    <string name="checkbox">Piscine</string>
+    <string name="calculer">Calcul</string>
+    <string name="total">Total:  </string>
+    <string name="result1"></string>
+    <string name="result2"></string>
+    <string name="result3"></string>
+</resources>
